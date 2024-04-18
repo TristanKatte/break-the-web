@@ -4,13 +4,18 @@
 
 Doe het web het een beetje goed?
 
-## Titel Website
+## Website Fitfever
 
-Welke website heb je getest? Beschrijf de website die je hebt geanalyseerd en de datum dat je hebt getest. Voeg de url en een screenshot van de website toe.  
+Ik heb op 17-04-2024 de website van Fitfever getest (https://www.fitfever.nl). Dit is mijn lokale sportschool.
+
+![Screenshot 2024-04-17 123500](https://github.com/TristanKatte/break-the-web/assets/134813224/5cd110cb-3bfe-4d82-88fb-100a77a386a8)
 
 Toon een screenshot van de performance test.
 
+![Screenshot 2024-04-18 104531](https://github.com/TristanKatte/break-the-web/assets/134813224/cc1856e6-aa24-4f3e-982b-2512d64dac3f)
+
 Schrijf een samenvatting van de testbevindingen en verwijs naar je Wiki voor een uitgebreide rapportage.
+De resultaten van de performance test zijn over het algemeen goed. De laadtijd is net iets over 2,5 seconde, dus net een voldoende op het gebied van LCP. Voor verdere rapportage van deze test verwijs ik naar de wiki van deze sprint waar ik meer over heb gerapporteerd. (https://github.com/TristanKatte/user-experience-enhanced-website/wiki/Break-the-web-deeltaak)
 
 
 ## Licentie
